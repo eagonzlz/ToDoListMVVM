@@ -47,14 +47,23 @@ The app is implemented using the **MVVM (Model-View-ViewModel)** architectural p
 ## Screenshots
 
 ### Main Screen
+![ToDoListView](screenshots/ToDoListView.png?raw=true "ToDoListView")
 
 ### Adding a To-Do
-
-### Toggling Completion
+![AddingTask](screenshots/AddingTask.png?raw=true "AddingTask")
+![AddedTask](screenshots/AddedTask.png?raw=true "AddedTask")
 
 ### Deleting Items
+![DeletingTask](screenshots/DeletingTask.png?raw=true "DeletingTask")
+![ConfirmDelete](screenshots/ConfirmDelete.png?raw=true "ConfirmDelete")
 
 ### Editing To-Do Items
+![EditToDoView](screenshots/EditToDoView.png?raw=true "EditToDoView")
+![EditedTask](screenshots/EditedTask.png?raw=true "EditedTask")
+
+### Profile Screen
+![ProfileView](screenshots/ProfileView.png?raw=true "ProfileView")
+![DarkmodeToggle](screenshots/DarkmodeToggle.png?raw=true "DarkmodeToggle")
 
 ## Future Enhancements
 - **User Authentication**:
